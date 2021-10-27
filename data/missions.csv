@@ -1,0 +1,49 @@
+formulation_start,launch_year,mission_id,mission_label,destination,program_line,launch_vehicle,launch_vehicle_cost_2020,type,failure,failure_year,number_of_missions,combined_missions
+,1962,lunar_ranger,Lunar Ranger,the_moon,Ranger,Atlas Agena B,856.80,Lunar Test Flight & Lunar Impact,Failed attempt,"1962,1962, 1962, 1963, 1964",9,"Ranger 1, 2, 3, 4, 5, 6, 7, 8, 9"
+,1963,mariner_1_2,Mariner 1 & 2,venus,Mariner,Atlas Agena B,$212.00,Venus Flyby,Launch Failure,1963,2,"Mariner 1, 2"
+,1965,mariner_3_4,Mariner 3 & 4,mars,Mariner,Atlas Agena D,$212.00,Mars Flyby,Failed attempt,1965,2,"Mariner 3, 4"
+,1966,lunar_surveyor,Lunar Surveyor,the_moon,Surveyor,Atlas Centaur,"$1,186.50",Lunar Lander,Failed attempt,"1967, 1968",7,"Surveyor 1, 2, 3, 4, 5, 6, 7"
+,1967,lunar_orbiter,Lunar Orbiter,the_moon,Lunar Orbiter,Atlas Agena D,338.50,Lunar Orbiter,,,5,"Lunar Orbiter 1, 2, 3, 4, 5"
+,1967,mariner_5,Mariner 5,venus,Mariner,Atlas Agena D,106,Venus Flyby,,,,
+,1969,mariner_6_7,Mariner 6 & 7,mars,Mariner,Atlas Centaur,$212.00,Mars Flyby,,,2,"Mariner 6, 7"
+,1971,mariner_8_9,Mariner 8 & 9,mars,Mariner,Atlas Centaur,$212.00,Mars Flyby,Launch failure,1961,2,"Mariner 8, 9"
+1969,1972,pioneer_10_11,Pioneer 10 & 11,outer_planets,Pioneer,Atlas Centaur,$219.80,Jupiter/Saturn Flyby,,,2,"Pioneer 10, 11"
+1970,1974,mariner_10,Mariner 10,mercury,Mariner,Atlas Centaur,128.9,Venus/Mercury Flybys,,,,
+1969,1976,viking,Viking,mars,Flagship,Titan IIIE-Centaur,$543.20,Mars Orbiter and Lander,,,2,"Viking 1, 2"
+1972,1977,voyager,Voyager,outer_planets,Flagship,Titan IIIE-Centaur,$395.40,Jupiter/Saturn/Uranus/Neptune Flyby,,,2,"Voyager 1, 2"
+1975,1978,pioneer_venus,Pioneer Venus,venus,Pioneer,Atlas Centaur,$174.80,Venus Orbiter & Probes,,,2,"Pioneer Venus 1, 2"
+1984,1989,magellan,Magellan,venus,,STS,,Venus Orbiter,,,,
+1978,1990,galileo,Galileo,outer_planets,Flagship,STS,,Jupiter Orbiter and Probe,,,,
+1985,1992,mars_observer,Mars Observer,mars,,Titan III,367.8,Mars Orbiter,Contact lost,,,
+1994,1996,near,NEAR,small_bodies,Discovery,Delta II,78.5,Asteroid Eros Orbiter,,,,
+1994,1997,mars_global_surveyor,Mars Global Surveyor,mars,MEP,Delta II,94.9,Mars Orbiter,,,,
+1994,1997,mars_pathfinder,Mars Pathfinder,mars,Discovery,Delta II,87.3,Mars Lander and Rover,,,,
+1990,1998,cassini,Cassini,outer_planets,Flagship,Titan IVB,729,Saturn Orbiter,,,,
+1996,1998,lunar_prospector,Lunar Prospector,the_moon,Discovery,Athena-2,,Lunar Orbiter,,,,
+1996,1999,deep_space_1,Deep Space 1 (DS1),small_bodies,New Millenium,Delta II,,Asteroid and Comet Flyby,,,,
+1996,1999,mars_climate_orbiter,Mars Climate Orbiter,mars,MEP,Delta II,78.7,Mars Orbiter,Failed attempt,,,
+1996,1999,mars_polar_lander,Mars Polar Lander,mars,MEP,Delta II,78.7,Mars Lander,Failed attempt,,,
+1996,1999,stardust,Stardust,small_bodies,Discovery,Delta II,70.8,Comet Coma Sample Return,,,,
+1998,2001,mars_odyssey,Mars Odyssey,mars,MEP,Delta II,91.3,Mars Orbiter,,,,
+1998,2001,genesis,Genesis,other,Discovery,Delta II,80.5,Solar Wind Sample Return,,,,
+1999,2002,contour,CONTOUR,small_bodies,Discovery,Delta II,76.7,Fly-by of three Comet Nuclei,Failed attempt,,,
+,2003,mer,MER,mars,MEP,Delta II,$154,Mars Rover,,,2,"Spirit, Opportunity"
+1999,2004,messenger,MESSENGER,mercury,Discovery,Delta II,105,Mercury Orbiter,,,,
+1999,2005,deep_impact,Deep Impact,small_bodies,Discovery,Delta II,84.1,Comet Rendezvous and Impact,,,,
+2001,2005,mars_reconnaisance_orbiter,Mars Reconnaisance Orbiter,mars,MEP,Atlas V 401,131,Mars Orbiter,,,,
+2001,2006,new_horizons,New Horizons,small_bodies,New Frontiers,Atlas V 551,257.1,Pluto/Charon and Kuiper Belt Flyby,,,,
+2003,2007,phoenix,Phoenix,mars,MEP,Delta II,118,Small Mars Scout Lander,,,,
+2002,2007,dawn,Dawn,small_bodies,Discovery,Delta II,134,Asteroid Ceres and Vesta Orbiter,,,,
+2005,2011,juno,Juno,outer_planets,New Frontiers,Atlas V 551,234,Jupiter Orbiter,,,,
+2007,2011,grail,GRAIL,the_moon,Discovery,Delta II Heavy,180.4,Lunar Orbiter,,,,
+2002,2012,msl_curiosity,MSL Curiosity,mars,Flagship,Atlas V 541,258.4,Mars Rover,,,,
+2008,2013,ladee,LADEE,the_moon,Lunar Quest,Minotaur,70,Lunar Orbiter,,,,
+2007,2014,maven,MAVEN,mars,MEP,Atlas V 411,220,Mars Scout Mission Orbiter,,,,
+2011,2016,osiris_rex,OSIRIS-REx,small_bodies,New Frontiers,Atlas V 411,210.3,Sample Return Mission to Asteroid Bennu,,,,
+2011,2018,insight,InSight,mars,Discovery,Atlas V 401,189,Mars Lander,,,,
+2013,2020,mars_perseverance,Mars Perseverance,mars,Flagship,Atlas V 541,264.1,Mars rover,,,,
+2015,2025,europa_clipper,Europa Clipper,outer_planets,Flagship,Falcon Heavy,178,Jupiter Orbiter/Europa Flyby,,,,
+2016,2021,dart,DART,other,Planetary Defense,Falcon 9,70.2,Planetary defense test,,,,
+2016,2021,lucy,Lucy,small_bodies,Discovery,Atlas V 401,152.4,Trojan asteroids flybys,,,,
+2016,2022,psyche,Psyche,small_bodies,Discovery,Falcon Heavy,113,Main Belt Asteroid Orbiter,,,,
+2019,2024,viper,VIPER,the_moon,LDEP,Falcon 9/CLPS,,Lunar lander,,,,
