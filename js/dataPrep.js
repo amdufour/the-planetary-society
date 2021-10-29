@@ -6,13 +6,13 @@ Promise.all(promises).then(data => {
 
 const prepData = (missionsList, costTimelines, runningCostTimelines, devOpCost) => {
   const missions = [
-    { destination: 'the_moon', missions: [] },
-    { destination: 'mars', missions: [] },
-    { destination: 'outer_planets', missions: [] },
-    { destination: 'venus', missions: [] },
-    { destination: 'small_bodies', missions: [] },
-    { destination: 'mercury', missions: [] },
-    { destination: 'other', missions: [] }
+    { destination: 'the_moon', destinationLabel: 'The Moon', missions: [] },
+    { destination: 'mars', destinationLabel: 'Mars', missions: [] },
+    { destination: 'outer_planets', destinationLabel: 'Outer Planets', missions: [] },
+    { destination: 'venus', destinationLabel: 'Venus', missions: [] },
+    { destination: 'small_bodies', destinationLabel: 'Small Bodies', missions: [] },
+    { destination: 'mercury', destinationLabel: 'Mercury', missions: [] },
+    { destination: 'other', destinationLabel: 'Other', missions: [] }
   ];
 
   missionsList.forEach(mission => {

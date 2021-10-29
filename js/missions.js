@@ -1,6 +1,7 @@
 const missions = [
   {
      "destination":"the_moon",
+     "destinationLabel":"The Moon",
      "missions":[
         {
            "formulation_start":"",
@@ -1352,6 +1353,7 @@ const missions = [
   },
   {
      "destination":"mars",
+     "destinationLabel":"Mars",
      "missions":[
         {
            "formulation_start":"",
@@ -2678,6 +2680,176 @@ const missions = [
         {
            "formulation_start":"1994",
            "launch_year":1997,
+           "mission_id":"mars_pathfinder",
+           "mission_label":"Mars Pathfinder",
+           "destination":"mars",
+           "program_line":"Discovery",
+           "launch_vehicle":"Delta II",
+           "launch_vehicle_cost_2020":87.3,
+           "type":"Mars Lander and Rover",
+           "failure":"",
+           "failure_year":"",
+           "number_of_missions":"",
+           "combined_missions":"",
+           "costTimelines":[
+              [
+                 {
+                    "year":1993,
+                    "cost":27.094
+                 },
+                 {
+                    "year":1994,
+                    "cost":666.862
+                 },
+                 {
+                    "year":1995,
+                    "cost":956.156
+                 },
+                 {
+                    "year":1996,
+                    "cost":499.054
+                 },
+                 {
+                    "year":1997,
+                    "cost":103.132
+                 },
+                 {
+                    "year":1998,
+                    "cost":40.204
+                 }
+              ]
+           ],
+           "runningCostTimeline":[
+              [
+                 {
+                    "year":1993,
+                    "cost":27.094
+                 },
+                 {
+                    "year":1994,
+                    "cost":693.956
+                 },
+                 {
+                    "year":1995,
+                    "cost":1650.112
+                 },
+                 {
+                    "year":1996,
+                    "cost":2149.166
+                 },
+                 {
+                    "year":1997,
+                    "cost":2252.298
+                 },
+                 {
+                    "year":1998,
+                    "cost":2292.502
+                 },
+                 {
+                    "year":1999,
+                    "cost":2292.502
+                 },
+                 {
+                    "year":2000,
+                    "cost":2292.502
+                 },
+                 {
+                    "year":2001,
+                    "cost":2292.502
+                 },
+                 {
+                    "year":2002,
+                    "cost":2292.502
+                 },
+                 {
+                    "year":2003,
+                    "cost":2292.502
+                 },
+                 {
+                    "year":2004,
+                    "cost":2292.502
+                 },
+                 {
+                    "year":2005,
+                    "cost":2292.502
+                 },
+                 {
+                    "year":2006,
+                    "cost":2292.502
+                 },
+                 {
+                    "year":2007,
+                    "cost":2292.502
+                 },
+                 {
+                    "year":2008,
+                    "cost":2292.502
+                 },
+                 {
+                    "year":2009,
+                    "cost":2292.502
+                 },
+                 {
+                    "year":2010,
+                    "cost":2292.502
+                 },
+                 {
+                    "year":2011,
+                    "cost":2292.502
+                 },
+                 {
+                    "year":2012,
+                    "cost":2292.502
+                 },
+                 {
+                    "year":2013,
+                    "cost":2292.502
+                 },
+                 {
+                    "year":2014,
+                    "cost":2292.502
+                 },
+                 {
+                    "year":2015,
+                    "cost":2292.502
+                 },
+                 {
+                    "year":2016,
+                    "cost":2292.502
+                 },
+                 {
+                    "year":2017,
+                    "cost":2292.502
+                 },
+                 {
+                    "year":2018,
+                    "cost":2292.502
+                 },
+                 {
+                    "year":2019,
+                    "cost":2292.502
+                 },
+                 {
+                    "year":2020,
+                    "cost":2292.502
+                 },
+                 {
+                    "year":2021,
+                    "cost":2292.502
+                 },
+                 {
+                    "year":2022,
+                    "cost":2292.502
+                 }
+              ]
+           ],
+           "devCost":"0.9439573008",
+           "opCost":"0.0560426992",
+           "fiscal_years_of_development":null
+        },
+        {
+           "formulation_start":"1994",
+           "launch_year":1997,
            "mission_id":"mars_global_surveyor",
            "mission_label":"Mars Global Surveyor",
            "destination":"mars",
@@ -2867,176 +3039,6 @@ const missions = [
            ],
            "devCost":"0.6463328632",
            "opCost":"0.3536671368",
-           "fiscal_years_of_development":null
-        },
-        {
-           "formulation_start":"1994",
-           "launch_year":1997,
-           "mission_id":"mars_pathfinder",
-           "mission_label":"Mars Pathfinder",
-           "destination":"mars",
-           "program_line":"Discovery",
-           "launch_vehicle":"Delta II",
-           "launch_vehicle_cost_2020":87.3,
-           "type":"Mars Lander and Rover",
-           "failure":"",
-           "failure_year":"",
-           "number_of_missions":"",
-           "combined_missions":"",
-           "costTimelines":[
-              [
-                 {
-                    "year":1993,
-                    "cost":27.094
-                 },
-                 {
-                    "year":1994,
-                    "cost":666.862
-                 },
-                 {
-                    "year":1995,
-                    "cost":956.156
-                 },
-                 {
-                    "year":1996,
-                    "cost":499.054
-                 },
-                 {
-                    "year":1997,
-                    "cost":103.132
-                 },
-                 {
-                    "year":1998,
-                    "cost":40.204
-                 }
-              ]
-           ],
-           "runningCostTimeline":[
-              [
-                 {
-                    "year":1993,
-                    "cost":27.094
-                 },
-                 {
-                    "year":1994,
-                    "cost":693.956
-                 },
-                 {
-                    "year":1995,
-                    "cost":1650.112
-                 },
-                 {
-                    "year":1996,
-                    "cost":2149.166
-                 },
-                 {
-                    "year":1997,
-                    "cost":2252.298
-                 },
-                 {
-                    "year":1998,
-                    "cost":2292.502
-                 },
-                 {
-                    "year":1999,
-                    "cost":2292.502
-                 },
-                 {
-                    "year":2000,
-                    "cost":2292.502
-                 },
-                 {
-                    "year":2001,
-                    "cost":2292.502
-                 },
-                 {
-                    "year":2002,
-                    "cost":2292.502
-                 },
-                 {
-                    "year":2003,
-                    "cost":2292.502
-                 },
-                 {
-                    "year":2004,
-                    "cost":2292.502
-                 },
-                 {
-                    "year":2005,
-                    "cost":2292.502
-                 },
-                 {
-                    "year":2006,
-                    "cost":2292.502
-                 },
-                 {
-                    "year":2007,
-                    "cost":2292.502
-                 },
-                 {
-                    "year":2008,
-                    "cost":2292.502
-                 },
-                 {
-                    "year":2009,
-                    "cost":2292.502
-                 },
-                 {
-                    "year":2010,
-                    "cost":2292.502
-                 },
-                 {
-                    "year":2011,
-                    "cost":2292.502
-                 },
-                 {
-                    "year":2012,
-                    "cost":2292.502
-                 },
-                 {
-                    "year":2013,
-                    "cost":2292.502
-                 },
-                 {
-                    "year":2014,
-                    "cost":2292.502
-                 },
-                 {
-                    "year":2015,
-                    "cost":2292.502
-                 },
-                 {
-                    "year":2016,
-                    "cost":2292.502
-                 },
-                 {
-                    "year":2017,
-                    "cost":2292.502
-                 },
-                 {
-                    "year":2018,
-                    "cost":2292.502
-                 },
-                 {
-                    "year":2019,
-                    "cost":2292.502
-                 },
-                 {
-                    "year":2020,
-                    "cost":2292.502
-                 },
-                 {
-                    "year":2021,
-                    "cost":2292.502
-                 },
-                 {
-                    "year":2022,
-                    "cost":2292.502
-                 }
-              ]
-           ],
-           "devCost":"0.9439573008",
-           "opCost":"0.0560426992",
            "fiscal_years_of_development":null
         },
         {
@@ -3844,140 +3846,6 @@ const missions = [
            "fiscal_years_of_development":null
         },
         {
-           "formulation_start":"2003",
-           "launch_year":2007,
-           "mission_id":"phoenix",
-           "mission_label":"Phoenix",
-           "destination":"mars",
-           "program_line":"MEP",
-           "launch_vehicle":"Delta II",
-           "launch_vehicle_cost_2020":118,
-           "type":"Small Mars Scout Lander",
-           "failure":"",
-           "failure_year":"",
-           "number_of_missions":"",
-           "combined_missions":"",
-           "costTimelines":[
-              [
-                 {
-                    "year":2003,
-                    "cost":105.754
-                 },
-                 {
-                    "year":2004,
-                    "cost":222.87
-                 },
-                 {
-                    "year":2005,
-                    "cost":951.786
-                 },
-                 {
-                    "year":2006,
-                    "cost":1236.71
-                 },
-                 {
-                    "year":2007,
-                    "cost":1043.556
-                 },
-                 {
-                    "year":2008,
-                    "cost":99.636
-                 },
-                 {
-                    "year":2009,
-                    "cost":10.488
-                 }
-              ]
-           ],
-           "runningCostTimeline":[
-              [
-                 {
-                    "year":2003,
-                    "cost":105.754
-                 },
-                 {
-                    "year":2004,
-                    "cost":328.624
-                 },
-                 {
-                    "year":2005,
-                    "cost":1280.41
-                 },
-                 {
-                    "year":2006,
-                    "cost":2517.12
-                 },
-                 {
-                    "year":2007,
-                    "cost":3560.676
-                 },
-                 {
-                    "year":2008,
-                    "cost":3660.312
-                 },
-                 {
-                    "year":2009,
-                    "cost":3670.8
-                 },
-                 {
-                    "year":2010,
-                    "cost":3670.8
-                 },
-                 {
-                    "year":2011,
-                    "cost":3670.8
-                 },
-                 {
-                    "year":2012,
-                    "cost":3670.8
-                 },
-                 {
-                    "year":2013,
-                    "cost":3670.8
-                 },
-                 {
-                    "year":2014,
-                    "cost":3670.8
-                 },
-                 {
-                    "year":2015,
-                    "cost":3670.8
-                 },
-                 {
-                    "year":2016,
-                    "cost":3670.8
-                 },
-                 {
-                    "year":2017,
-                    "cost":3670.8
-                 },
-                 {
-                    "year":2018,
-                    "cost":3670.8
-                 },
-                 {
-                    "year":2019,
-                    "cost":3670.8
-                 },
-                 {
-                    "year":2020,
-                    "cost":3670.8
-                 },
-                 {
-                    "year":2021,
-                    "cost":3670.8
-                 },
-                 {
-                    "year":2022,
-                    "cost":3670.8
-                 }
-              ]
-           ],
-           "devCost":"0.97",
-           "opCost":"0.03",
-           "fiscal_years_of_development":null
-        },
-        {
            "formulation_start":"2002",
            "launch_year":2012,
            "mission_id":"msl_curiosity",
@@ -4169,6 +4037,140 @@ const missions = [
            ],
            "devCost":"0.8160353493",
            "opCost":"0.1839646507",
+           "fiscal_years_of_development":null
+        },
+        {
+           "formulation_start":"2003",
+           "launch_year":2007,
+           "mission_id":"phoenix",
+           "mission_label":"Phoenix",
+           "destination":"mars",
+           "program_line":"MEP",
+           "launch_vehicle":"Delta II",
+           "launch_vehicle_cost_2020":118,
+           "type":"Small Mars Scout Lander",
+           "failure":"",
+           "failure_year":"",
+           "number_of_missions":"",
+           "combined_missions":"",
+           "costTimelines":[
+              [
+                 {
+                    "year":2003,
+                    "cost":105.754
+                 },
+                 {
+                    "year":2004,
+                    "cost":222.87
+                 },
+                 {
+                    "year":2005,
+                    "cost":951.786
+                 },
+                 {
+                    "year":2006,
+                    "cost":1236.71
+                 },
+                 {
+                    "year":2007,
+                    "cost":1043.556
+                 },
+                 {
+                    "year":2008,
+                    "cost":99.636
+                 },
+                 {
+                    "year":2009,
+                    "cost":10.488
+                 }
+              ]
+           ],
+           "runningCostTimeline":[
+              [
+                 {
+                    "year":2003,
+                    "cost":105.754
+                 },
+                 {
+                    "year":2004,
+                    "cost":328.624
+                 },
+                 {
+                    "year":2005,
+                    "cost":1280.41
+                 },
+                 {
+                    "year":2006,
+                    "cost":2517.12
+                 },
+                 {
+                    "year":2007,
+                    "cost":3560.676
+                 },
+                 {
+                    "year":2008,
+                    "cost":3660.312
+                 },
+                 {
+                    "year":2009,
+                    "cost":3670.8
+                 },
+                 {
+                    "year":2010,
+                    "cost":3670.8
+                 },
+                 {
+                    "year":2011,
+                    "cost":3670.8
+                 },
+                 {
+                    "year":2012,
+                    "cost":3670.8
+                 },
+                 {
+                    "year":2013,
+                    "cost":3670.8
+                 },
+                 {
+                    "year":2014,
+                    "cost":3670.8
+                 },
+                 {
+                    "year":2015,
+                    "cost":3670.8
+                 },
+                 {
+                    "year":2016,
+                    "cost":3670.8
+                 },
+                 {
+                    "year":2017,
+                    "cost":3670.8
+                 },
+                 {
+                    "year":2018,
+                    "cost":3670.8
+                 },
+                 {
+                    "year":2019,
+                    "cost":3670.8
+                 },
+                 {
+                    "year":2020,
+                    "cost":3670.8
+                 },
+                 {
+                    "year":2021,
+                    "cost":3670.8
+                 },
+                 {
+                    "year":2022,
+                    "cost":3670.8
+                 }
+              ]
+           ],
+           "devCost":"0.97",
+           "opCost":"0.03",
            "fiscal_years_of_development":null
         },
         {
@@ -4557,6 +4559,7 @@ const missions = [
   },
   {
      "destination":"outer_planets",
+     "destinationLabel":"Outer Planets",
      "missions":[
         {
            "formulation_start":"1969",
@@ -6150,6 +6153,7 @@ const missions = [
   },
   {
      "destination":"venus",
+     "destinationLabel":"Venus",
      "missions":[
         {
            "formulation_start":"",
@@ -7215,6 +7219,7 @@ const missions = [
   },
   {
      "destination":"small_bodies",
+     "destinationLabel":"Small Bodies",
      "missions":[
         {
            "formulation_start":"1994",
@@ -8760,6 +8765,7 @@ const missions = [
   },
   {
      "destination":"mercury",
+     "destinationLabel":"Mercury",
      "missions":[
         {
            "formulation_start":"1970",
@@ -9221,6 +9227,7 @@ const missions = [
   },
   {
      "destination":"other",
+     "destinationLabel":"Other",
      "missions":[
         {
            "formulation_start":"1998",
